@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Thai UI",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 12663,
+  "fonts": [
+    {
+      "name": "Noto Sans Thai UI",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansThaiUI-Bold.ttf",
+      "postScriptName": "NotoSansThaiUI-Bold",
+      "fullName": "Noto Sans Thai UI Bold",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Thai UI",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansThaiUI-Regular.ttf",
+      "postScriptName": "NotoSansThaiUI",
+      "fullName": "Noto Sans Thai UI",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
